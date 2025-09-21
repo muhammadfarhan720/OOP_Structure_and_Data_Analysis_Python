@@ -6,7 +6,7 @@ Click the **blue text hyperlinks** below to view problems and solution code.
 
 ---
 
-## 1️⃣ [Vectorized Data Cleaning Engine](https://github.com/muhammadfarhan720/OOP_Structure_and_Data_Analysis_Python/blob/main/Vectorized_Data_Cleaning.ipynb)
+## 1️⃣ [Vectorized Data Cleaning](https://github.com/muhammadfarhan720/OOP_Structure_and_Data_Analysis_Python/blob/main/Vectorzed_Data_Cleaning.ipynb)
 
 # Impact Summary 
 
