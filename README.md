@@ -107,20 +107,22 @@ Each project includes self-contained source code and test cases.
 
 ## Projects
 
-1. [**Leap Year & Roman Numeral Validator**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/Numerical_Algorithms)  
-   **Skills:** `Conditionals`, `Loops`, `String Processing`  
-   Algorithms for leap year detection and Roman numeral validation.
+1. [**Rational Number Class**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/OOP_Test_method)  
+   **Skills:** `OOP`, `Classes`, `Method Design`, `Dunder Methods and Operator Overloading`  
+   Object-oriented implementation and unit-method testing of a rational number arithmetic calculator.
 
-2. [**Command-Line Phonebook Database**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/CLI_Dictionary)  
-   **Skills:** `Dictionaries`, `CRUD Operations`, `Input Validation`  
-   Interactive dictionary-based contact manager.
-
-3. [**DNA Sequence Experiment Data Analysis**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/DA_DNA)  
+   
+2. [**DNA Sequence Experiment Data Analysis**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/DA_DNA)  
    **Skills:** `File I/O`, `Lists`, `Dictionaries`, `Functions`  
    CSV data loader and statistical analysis toolkit.
 
-4. [**Rational Number Class**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/OOP_Test_method)  
-   **Skills:** `OOP`, `Classes`, `Method Design`, `Dunder Methods and Operator Overloading`  
-   Object-oriented implementation and unit-method testing of a rational number arithmetic calculator.
+3. [**Leap Year & Roman Numeral Validator**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/Numerical_Algorithms)  
+   **Skills:** `Conditionals`, `Loops`, `String Processing`  
+   Algorithms for leap year detection and Roman numeral validation.
+
+4. [**Command-Line Phonebook Database**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/CLI_Dictionary)  
+   **Skills:** `Dictionaries`, `CRUD Operations`, `Input Validation`  
+   Interactive dictionary-based contact manager.
+
 
 ---
